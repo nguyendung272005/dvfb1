@@ -1,0 +1,6 @@
+RewriteEngine On
+
+ErrorDocument 404 /ErrorDocument/404.php
+
+RewriteRule ^home/$ /index.php [L]
+RewriteRule ^order/$ order.php [L]
