@@ -1,6 +1,6 @@
 <?php include ('head.php'); ?>
 <?php include ('config.php'); ?>
-<?php include ('nav.php'); ?>
+<!-- <?php include ('nav.php'); ?> -->
 <head>
 <title>Trang Chủ | <?=$site_tenweb;?> </title>
 </head>
